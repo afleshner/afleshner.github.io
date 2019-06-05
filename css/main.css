@@ -28,6 +28,7 @@ div {
 } 
 
 .container-half-right {
+    float: right;
     margin-left: 50%;
     position: relative;
     width: 50%;
@@ -36,6 +37,7 @@ div {
     height: 0;
 }
 .container-half-left {
+    float: left;
     margin-right: 50%;
     position: relative;
     width: 50%;
