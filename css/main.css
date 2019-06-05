@@ -32,6 +32,24 @@ div {
     height: 100%;
 } 
 
+.video-container-margin {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 0px;
+    height: 0;
+    overflow: hidden;
+}
+.video-container-margin iframe,
+.video-container-margin object,
+.video-container-margin embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 5%;
+    width: 100%;
+    height: 100%;
+} 
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
