@@ -27,7 +27,7 @@ div {
     height: 100%;
 } 
 
-.video-container-half-right {
+.container-half-right {
     margin-left: 50%;
     position: relative;
     width: 50%;
@@ -35,10 +35,18 @@ div {
     padding-top: 0px;
     height: 0;
 }
-.video-container-half-right iframe,
-.video-container-half-right object,
-.video-container-half-right embed,
-.video-container-half-right video {
+.container-half-left {
+    margin-right: 50%;
+    position: relative;
+    width: 50%;
+    padding-bottom: 28.125%;
+    padding-top: 0px;
+    height: 0;
+}
+.container-half iframe,
+.container-half object,
+.container-half embed,
+.container-half video {
     position: absolute;
     top: 0;
     left: 0;
