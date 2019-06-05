@@ -33,6 +33,7 @@ div {
 } 
 
 .video-container-margin {
+    margin-left: 10%;
     position: relative;
     padding-bottom: 56.25%;
     padding-top: 0px;
@@ -45,7 +46,6 @@ div {
     position: absolute;
     top: 0;
     left: 0;
-    margin-left: 5%;
     width: 100%;
     height: 100%;
 } 
