@@ -6,7 +6,8 @@ body {
 div {
     width: 100%;
     white-space:nowrap;
-    overflow:auto;
+    overflow:hidden;
+    display:inline-block;
 }
 
 .aspect-ratio {
