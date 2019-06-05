@@ -18,7 +18,8 @@ div {
 }
 .video-container iframe,
 .video-container object,
-.video-container embed {
+.video-container embed,
+.video-container video {
     position: absolute;
     top: 0;
     left: 0;
@@ -35,7 +36,8 @@ div {
 }
 .video-container-margin iframe,
 .video-container-margin object,
-.video-container-margin embed {
+.video-container-margin embed 
+.video-container-margin video {
     position: absolute; 
     right: 0; 
     bottom: 0;
