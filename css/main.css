@@ -29,10 +29,10 @@ div {
 
 .video-container-margin {
     position: relative;
+    width: 50%;
     padding-bottom: 56.25%;
     padding-top: 0px;
     height: 0;
-    width: 50%;
 }
 .video-container-margin iframe,
 .video-container-margin object,
