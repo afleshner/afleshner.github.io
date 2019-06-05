@@ -14,6 +14,7 @@ div {
     padding-bottom: 56.25%;
     padding-top: 0px;
     height: 0;
+    width: 100%;
 }
 .video-container iframe,
 .video-container object,
@@ -30,6 +31,7 @@ div {
     padding-bottom: 56.25%;
     padding-top: 0px;
     height: 0;
+    width: 100%;
 }
 .video-container-margin iframe,
 .video-container-margin object,
