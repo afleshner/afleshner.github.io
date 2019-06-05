@@ -6,6 +6,12 @@ div {
     white-space:nowrap;
     overflow:hidden;
 }
+aspectdiv {
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 Aspect Ratio */
+    white-space:nowrap;
+    overflow:hidden;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
