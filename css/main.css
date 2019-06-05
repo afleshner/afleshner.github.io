@@ -43,10 +43,14 @@ div {
     padding-top: 0px;
     height: 0;
 }
-.container-half iframe,
-.container-half object,
-.container-half embed,
-.container-half video {
+.container-half-right iframe,
+.container-half-right object,
+.container-half-right embed,
+.container-half-right video,
+.container-half-left iframe,
+.container-half-left object,
+.container-half-left embed,
+.container-half-left video {
     position: absolute;
     top: 0;
     left: 0;
