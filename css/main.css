@@ -7,13 +7,6 @@ div {
     width: 100%;
     white-space:nowrap;
     overflow:hidden;
-    display:inline-block;
-}
-
-.aspect-ratio {
-    position: relative;
-    overflow: hidden;
-    padding-top: 56.25%;
 }
 
 .video-container {
@@ -21,7 +14,6 @@ div {
     padding-bottom: 56.25%;
     padding-top: 0px;
     height: 0;
-    overflow: hidden;
 }
 .video-container iframe,
 .video-container object,
