@@ -38,11 +38,7 @@ div {
 .video-container-margin object,
 .video-container-margin embed,
 .video-container-margin video {
-    position: absolute; 
-    right: 0; 
-    bottom: 0;
-    width: auto; 
-    height: auto; 
+    object-fit: fill;
 } 
 
 nav ul, footer ul {
