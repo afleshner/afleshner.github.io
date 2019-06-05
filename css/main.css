@@ -3,7 +3,6 @@ body {
     width: 70%;
 }
 div {
-    margin-left: 10%;
     white-space:nowrap;
     overflow:hidden;
 }
