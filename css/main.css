@@ -6,7 +6,7 @@ body {
 div {
     width: 100%;
     white-space:nowrap;
-    overflow:hidden;
+    overflow:auto;
 }
 
 .aspect-ratio {
@@ -38,7 +38,6 @@ div {
     padding-bottom: 56.25%;
     padding-top: 0px;
     height: 0;
-    overflow: hidden;
 }
 .video-container-margin iframe,
 .video-container-margin object,
