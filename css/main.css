@@ -26,6 +26,9 @@ div {
 
 .gif-text {
     margin-left: 5%;
+    width: 100%;
+    white-space:nowrap;
+    overflow:hidden;
 }
 
 nav ul, footer ul {
