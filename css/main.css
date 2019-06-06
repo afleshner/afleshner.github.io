@@ -11,8 +11,8 @@ div {
 
 .video-container {
     position: relative;
-    width: 90%;
-    padding-bottom: 50.625%;
+    width: 100%;
+    padding-bottom: 56.25%;
     height: 0;
 }
 .container-double {
@@ -20,15 +20,15 @@ div {
 }
 .container-half-left {
     float: left;
-    width: 45%;
-    padding-bottom: 25.3125%;
+    width: 49%;
+    padding-bottom: 27.5625%;
     height: 0;
     position: relative;
 }
 .container-half-right {
     float: right;
-    width: 45%;
-    padding-bottom: 25.3125%;
+    width: 49%;
+    padding-bottom: 27.5625%;
     height: 0;
     position: relative;
 }
