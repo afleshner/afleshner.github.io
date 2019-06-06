@@ -31,7 +31,6 @@ div {
     margin: auto;
 }
 .container-half-left {
-    position: relative;
     float: left;
     width: 50%;
     padding-bottom: 28.125%;
@@ -39,7 +38,6 @@ div {
 }
 .container-half-right {
     margin-left: 50%;
-    position: relative;
     padding-bottom: 28.125%;
     height: 0;
 }
