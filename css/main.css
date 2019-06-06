@@ -32,16 +32,17 @@ div {
 }
 .container-half-left {
     float: left;
-    position: relative;
     width: 50%;
     padding-bottom: 28.125%;
     height: 0;
+    position: relative;
 }
 .container-half-right {
-    position: relative;
-    margin-left: 50%;
+    float: right;
+    width: 50%;
     padding-bottom: 28.125%;
     height: 0;
+    position: relative;
 }
 .container-half-right iframe,
 .container-half-right object,
