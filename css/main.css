@@ -11,24 +11,11 @@ div {
 
 .video-container {
     position: relative;
-    padding-bottom: 50.625‬%;
-    padding-top: 0px;
-    height: 0;
     width: 90%;
+    padding-bottom: 50.625‬%;
+    height: 0;
 }
-.video-container iframe,
-.video-container object,
-.video-container embed,
-.video-container video {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    box-shadow: 10px 10px 5px grey;
-} 
-.container-double
-{
+.container-double {
     margin: auto;
 }
 .container-half-left {
@@ -52,7 +39,11 @@ div {
 .container-half-left iframe,
 .container-half-left object,
 .container-half-left embed,
-.container-half-left video {
+.container-half-left video,
+.video-container iframe,
+.video-container object,
+.video-container embed,
+.video-container video {
     position: absolute;
     width: 100%;
     height: 100%;
