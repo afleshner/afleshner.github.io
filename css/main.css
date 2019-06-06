@@ -32,11 +32,13 @@ div {
 }
 .container-half-left {
     float: left;
+    position: relative;
     width: 50%;
     padding-bottom: 28.125%;
     height: 0;
 }
 .container-half-right {
+    position: relative;
     margin-left: 50%;
     padding-bottom: 28.125%;
     height: 0;
