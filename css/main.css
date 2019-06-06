@@ -17,10 +17,9 @@ div {
     height: 0;
 }
 .container-double {
-    margin: 10px;
+    margin: auto;
 }
 .container-half-left {
-    margin: 10px;
     float: left;
     width: 49%;
     padding-bottom: 27.5625%;
@@ -28,7 +27,6 @@ div {
     position: relative;
 }
 .container-half-right {
-    margin: 10px;
     float: right;
     width: 49%;
     padding-bottom: 27.5625%;
