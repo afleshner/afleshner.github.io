@@ -25,6 +25,7 @@ div {
     left: 0;
     width: 100%;
     height: 100%;
+    box-shadow: 10px 10px 5px grey;
 } 
 .container-double
 {
@@ -55,6 +56,7 @@ div {
     position: absolute;
     width: 100%;
     height: 100%;
+    box-shadow: 10px 10px 5px grey;
 }
 
 nav ul, footer ul {
