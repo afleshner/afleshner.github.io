@@ -10,15 +10,17 @@ div {
 }
 
 .video-container {
+    margin: 10px;
     position: relative;
     width: 100%;
     padding-bottom: 56.25%;
     height: 0;
 }
 .container-double {
-    margin: auto;
+    margin: 10px;
 }
 .container-half-left {
+    margin: 10px;
     float: left;
     width: 49%;
     padding-bottom: 27.5625%;
@@ -26,6 +28,7 @@ div {
     position: relative;
 }
 .container-half-right {
+    margin: 10px;
     float: right;
     width: 49%;
     padding-bottom: 27.5625%;
