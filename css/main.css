@@ -131,14 +131,14 @@ ul.posts li {
 }
 
 .slide-wrapper {
-  width: 2912px;
+  width: 400%;
   -webkit-animation: slide 18s ease infinite;
 }
 
 .slide {
   float: left;
-  height: 510px;
-  width: 728px;
+  width: 100%;
+  padding-bottom: 56.25%;
 }
 
 .slide:nth-child(1) {
